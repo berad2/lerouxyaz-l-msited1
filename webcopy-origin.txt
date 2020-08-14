@@ -1,0 +1,532 @@
+Uri: https://csrkpremium.com/?gads=gobir&gclid=Cj0KCQjw7Nj5BRCZARIsABwxDKJb5eBRGEIdwQC_nJxlgLRb6nrjQ393trsRtBLM1yZz10o8dtvDJtMaAgROEALw_wcB
+File Name: c:\Downloaded Web Sites\csrkpremium.com\index.htm
+Content Type: text/html
+
+Uri: https://csrkpremium.com/img/favicon.ico
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://csrkpremium.com/img/apple-touch-icon.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/
+File Name: c:\Downloaded Web Sites\csrkpremium.com\index-1.htm
+Content Type: text/html
+
+Uri: https://csrkpremium.com/en/
+File Name: c:\Downloaded Web Sites\csrkpremium.com\en\index.htm
+Content Type: text/html
+
+Uri: https://csrkpremium.com/css/pury-minil.css
+File Name: c:\Downloaded Web Sites\csrkpremium.com\css\pury-minil.css
+Content Type: text/css
+
+Uri: https://csrkpremium.com/index.php
+File Name: c:\Downloaded Web Sites\csrkpremium.com\index.html
+Content Type: text/html
+
+Uri: https://csrkpremium.com/firsatlar.php
+File Name: c:\Downloaded Web Sites\csrkpremium.com\firsatlar.html
+Content Type: text/html
+
+Uri: https://csrkpremium.com/sss.php
+File Name: c:\Downloaded Web Sites\csrkpremium.com\sss.html
+Content Type: text/html
+
+Uri: https://csrkpremium.com/sponsor.php
+File Name: c:\Downloaded Web Sites\csrkpremium.com\sponsor.html
+Content Type: text/html
+
+Uri: https://csrkpremium.com/giris-kayit.php
+File Name: c:\Downloaded Web Sites\csrkpremium.com\giris-kayit.html
+Content Type: text/html
+
+Uri: https://csrkpremium.com/sozlesme.php
+File Name: c:\Downloaded Web Sites\csrkpremium.com\sozlesme.html
+Content Type: text/html
+
+Uri: https://csrkpremium.com/yorumlar.php
+File Name: c:\Downloaded Web Sites\csrkpremium.com\yorumlar.html
+Content Type: text/html
+
+Uri: https://csrkpremium.com/iletisim.php
+File Name: c:\Downloaded Web Sites\csrkpremium.com\iletisim.html
+Content Type: text/html
+
+Uri: https://csrkpremium.com/cdn-cgi/apps/head/fMbhZZhLya4NK4FdHhHKWnZFwJ8.js
+File Name: c:\Downloaded Web Sites\csrkpremium.com\cdn-cgi\apps\head\fMbhZZhLya4NK4FdHhHKWnZFwJ8.js
+Content Type: application/javascript
+
+Uri: https://csrkpremium.com/vendor/modernizr/modernizr.js
+File Name: c:\Downloaded Web Sites\csrkpremium.com\vendor\modernizr\modernizr.js
+Content Type: application/x-javascript
+
+Uri: https://csrkpremium.com/img/logolito.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\logolito.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/img/slides/7gun2-compressor.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\slides\7gun2-compressor.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/img/slides/14gun-compressor.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\slides\14gun-compressor.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/img/slides/wpp4-compressor.jpg
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\slides\wpp4-compressor.jpg
+Content Type: image/jpeg
+
+Uri: https://csrkpremium.com/img/slide22.jpg
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\slide22.jpg
+Content Type: image/jpeg
+
+Uri: https://csrkpremium.com/img/slides/slide-title-border.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\slides\slide-title-border.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/img/slides/naysslayt.jpg
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\slides\naysslayt.jpg
+Content Type: image/jpeg
+
+Uri: https://csrkpremium.com/img/bizimicon.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\bizimicon.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/img/csicon.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\csicon.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/img/settings-icon.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\settings-icon.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/img/headshot.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\headshot.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/img/global.jpg
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\global.jpg
+Content Type: image/jpeg
+
+Uri: https://csrkpremium.com/img/ininal2.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\ininal2.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/img/credit-card-logo.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\credit-card-logo.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/js/min3.js
+File Name: c:\Downloaded Web Sites\csrkpremium.com\js\min3.js
+Content Type: application/x-javascript
+
+Uri: https://csrkpremium.com/img/logolito.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\logolito.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/img/slides/slidepaket.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\slides\slidepaket.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/img/slides/7gun2-compressor.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\slides\7gun2-compressor.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/img/slides/14gun-compressor.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\slides\14gun-compressor.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/img/slides/wpp4-compressor.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\slides\wpp4-compressor.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/img/slide22.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\slide22.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/img/slides/slide-title-border.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\slides\slide-title-border.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/img/slides/naysslayt.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\slides\naysslayt.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/img/bizimicon.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\bizimicon.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/img/csicon.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\csicon.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/img/settings-icon.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\settings-icon.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/img/headshot.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\headshot.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/img/global.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\global.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/img/ininal2.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\ininal2.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/img/credit-card-logo.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\credit-card-logo.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/en/img/favicon.ico
+File Name: c:\Downloaded Web Sites\csrkpremium.com\en\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://csrkpremium.com/en/img/apple-touch-icon.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\en\img\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/en/index.php
+File Name: c:\Downloaded Web Sites\csrkpremium.com\en\index.html
+Content Type: text/html
+
+Uri: https://csrkpremium.com/en/special.php
+File Name: c:\Downloaded Web Sites\csrkpremium.com\en\special.html
+Content Type: text/html
+
+Uri: https://csrkpremium.com/en/faq.php
+File Name: c:\Downloaded Web Sites\csrkpremium.com\en\faq.html
+Content Type: text/html
+
+Uri: https://csrkpremium.com/en/sponsor.php
+File Name: c:\Downloaded Web Sites\csrkpremium.com\en\sponsor.html
+Content Type: text/html
+
+Uri: https://csrkpremium.com/en/register.php
+File Name: c:\Downloaded Web Sites\csrkpremium.com\en\register.html
+Content Type: text/html
+
+Uri: https://csrkpremium.com/en/comments.php
+File Name: c:\Downloaded Web Sites\csrkpremium.com\en\comments.html
+Content Type: text/html
+
+Uri: https://csrkpremium.com/en/vendor/modernizr/modernizr.js
+File Name: c:\Downloaded Web Sites\csrkpremium.com\en\vendor\modernizr\modernizr.js
+Content Type: application/x-javascript
+
+Uri: https://csrkpremium.com/en/img/logolito.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\en\img\logolito.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/en/img/bizimicon.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\en\img\bizimicon.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/en/img/csicon.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\en\img\csicon.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/en/img/settings-icon.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\en\img\settings-icon.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/en/img/headshot.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\en\img\headshot.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/en/img/global.jpg
+File Name: c:\Downloaded Web Sites\csrkpremium.com\en\img\global.jpg
+Content Type: image/jpeg
+
+Uri: https://csrkpremium.com/en/img/credit-card-logo.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\en\img\credit-card-logo.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/en/img/logolito.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\en\img\logolito.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/en/img/bizimicon.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\en\img\bizimicon.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/en/img/csicon.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\en\img\csicon.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/en/img/settings-icon.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\en\img\settings-icon.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/en/img/headshot.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\en\img\headshot.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/en/img/global.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\en\img\global.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/en/img/credit-card-logo.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\en\img\credit-card-logo.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/vendor/font-awesome/fonts/fontawesome-webfont.eot?v=4.4.0
+File Name: c:\Downloaded Web Sites\csrkpremium.com\vendor\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://csrkpremium.com/vendor/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: c:\Downloaded Web Sites\csrkpremium.com\vendor\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://csrkpremium.com/vendor/font-awesome/fonts/fontawesome-webfont.woff2?v=4.4.0
+File Name: c:\Downloaded Web Sites\csrkpremium.com\vendor\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://csrkpremium.com/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.4.0
+File Name: c:\Downloaded Web Sites\csrkpremium.com\vendor\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://csrkpremium.com/vendor/font-awesome/fonts/fontawesome-webfont.ttf?v=4.4.0
+File Name: c:\Downloaded Web Sites\csrkpremium.com\vendor\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://csrkpremium.com/vendor/font-awesome/fonts/fontawesome-webfont.svg?v=4.4.0
+File Name: c:\Downloaded Web Sites\csrkpremium.com\vendor\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://csrkpremium.com/vendor/simple-line-icons/fonts/Simple-Line-Icons.eot
+File Name: c:\Downloaded Web Sites\csrkpremium.com\vendor\simple-line-icons\fonts\Simple-Line-Icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://csrkpremium.com/vendor/simple-line-icons/fonts/Simple-Line-Icons.eot?
+File Name: c:\Downloaded Web Sites\csrkpremium.com\vendor\simple-line-icons\fonts\Simple-Line-Icons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://csrkpremium.com/vendor/simple-line-icons/fonts/Simple-Line-Icons.woff
+File Name: c:\Downloaded Web Sites\csrkpremium.com\vendor\simple-line-icons\fonts\Simple-Line-Icons.woff
+Content Type: application/font-woff
+
+Uri: https://csrkpremium.com/vendor/simple-line-icons/fonts/Simple-Line-Icons.ttf
+File Name: c:\Downloaded Web Sites\csrkpremium.com\vendor\simple-line-icons\fonts\Simple-Line-Icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://csrkpremium.com/vendor/simple-line-icons/fonts/Simple-Line-Icons.svg
+File Name: c:\Downloaded Web Sites\csrkpremium.com\vendor\simple-line-icons\fonts\Simple-Line-Icons.svg
+Content Type: image/svg+xml
+
+Uri: https://csrkpremium.com/img/custom-header-bg.jpg
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\custom-header-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://csrkpremium.com/img/custom-header-bg.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\custom-header-bg.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/img/video-overlay.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\video-overlay.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/img/video-overlay.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\video-overlay.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/img/map.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\map.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/img/map.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\map.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/img/map-2.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\map-2.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/img/map-2.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\map-2.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/img/home-concept.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\home-concept.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/img/home-concept.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\home-concept.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/img/home-concept-item.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\home-concept-item.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/img/home-concept-item.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\home-concept-item.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/img/home-concept-icons.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\home-concept-icons.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/img/home-concept-icons.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\home-concept-icons.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/img/map-dark.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\map-dark.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/img/map-dark.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\map-dark.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/img/home-concept-dark.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\home-concept-dark.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/img/home-concept-dark.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\home-concept-dark.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/img/home-concept-item-dark.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\home-concept-item-dark.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/img/home-concept-item-dark.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\home-concept-item-dark.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/img/Military-Grenade-icon.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\Military-Grenade-icon.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/img/Military-Grenade-icon.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\Military-Grenade-icon.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/img/crosshairicon.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\crosshairicon.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/img/crosshairicon.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\crosshairicon.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/img/arrows-dark.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\arrows-dark.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/img/arrows-dark.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\arrows-dark.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/img/patterns/worn_dots.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\patterns\worn_dots.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/img/patterns/worn_dots.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\patterns\worn_dots.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/img/patterns/az_subtle.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\patterns\az_subtle.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/img/patterns/az_subtle.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\patterns\az_subtle.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/img/arrows.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\arrows.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/img/arrows.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\arrows.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/img/flags.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\flags.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/img/flags.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\flags.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/vendor/rs-plugin/css/openhand.cur
+File Name: c:\Downloaded Web Sites\csrkpremium.com\vendor\rs-plugin\css\openhand.bin
+Content Type: application/octet-stream
+
+Uri: https://csrkpremium.com/vendor/rs-plugin/css/closedhand.cur
+File Name: c:\Downloaded Web Sites\csrkpremium.com\vendor\rs-plugin\css\closedhand.bin
+Content Type: application/octet-stream
+
+Uri: https://csrkpremium.com/vendor/rs-plugin/assets/coloredbg.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\vendor\rs-plugin\assets\coloredbg.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/vendor/rs-plugin/assets/loader.gif
+File Name: c:\Downloaded Web Sites\csrkpremium.com\vendor\rs-plugin\assets\loader.gif
+Content Type: image/gif
+
+Uri: https://csrkpremium.com/img/friends.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\friends.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/img/indirim-min.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\indirim-min.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/img/indirim-min.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\img\indirim-min.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/sponsor.php?page=1
+File Name: c:\Downloaded Web Sites\csrkpremium.com\sponsor-1.html
+Content Type: text/html
+
+Uri: https://csrkpremium.com/sponsor.php?page=2
+File Name: c:\Downloaded Web Sites\csrkpremium.com\sponsor-2.html
+Content Type: text/html
+
+Uri: https://csrkpremium.com/sponsor.php?page=3
+File Name: c:\Downloaded Web Sites\csrkpremium.com\sponsor-3.html
+Content Type: text/html
+
+Uri: https://csrkpremium.com/sifremiyenile.php
+File Name: c:\Downloaded Web Sites\csrkpremium.com\sifremiyenile.html
+Content Type: text/html
+
+Uri: https://csrkpremium.com/en/img/friends.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\en\img\friends.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/en/img/indirim-min.png
+File Name: c:\Downloaded Web Sites\csrkpremium.com\en\img\indirim-min.png
+Content Type: image/png
+
+Uri: https://csrkpremium.com/en/img/friends.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\en\img\friends.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/en/img/indirim-min.webp
+File Name: c:\Downloaded Web Sites\csrkpremium.com\en\img\indirim-min.webp
+Content Type: image/webp
+
+Uri: https://csrkpremium.com/en/sponsor.php?page=1
+File Name: c:\Downloaded Web Sites\csrkpremium.com\en\sponsor-1.html
+Content Type: text/html
+
+Uri: https://csrkpremium.com/en/sponsor.php?page=2
+File Name: c:\Downloaded Web Sites\csrkpremium.com\en\sponsor-2.html
+Content Type: text/html
+
+Uri: https://csrkpremium.com/en/sponsor.php?page=3
+File Name: c:\Downloaded Web Sites\csrkpremium.com\en\sponsor-3.html
+Content Type: text/html
+
+Uri: https://csrkpremium.com/en/sifremiyenile.php
+File Name: c:\Downloaded Web Sites\csrkpremium.com\en\sifremiyenile.html
+Content Type: text/html
+
